@@ -1,3 +1,5 @@
+Project deployed on: https://idyllic-banoffee-a2a66c.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
