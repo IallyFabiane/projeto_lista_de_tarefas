@@ -1,4 +1,4 @@
-Project deployed on: https://idyllic-banoffee-a2a66c.netlify.app/
+<h2>Project deployed on: https://idyllic-banoffee-a2a66c.netlify.app/</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
